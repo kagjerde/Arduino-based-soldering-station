@@ -18,6 +18,8 @@ At the bottom right of the screen, a small bar showing the PWM output is shown.
 
 At the mottom left a small dot is show is the soldering station is in Standby mode.
 
+The PCB giles are generated in KiCad, but Gerber files are included as well.
+
 ## Credits
 
 The Weller RT product is a trademark of [Weller Tools GmbH](https://www.weller-tools.com/index.html)
