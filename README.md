@@ -3,6 +3,8 @@ This is a soldering station using Weller RT soldering tips
 The project contains 3D model for the housing and a cirquit board using Arduino Nano microcontroller.
 The source code is written i C, and uses PID library for temperature control.
 
+![Soldering Station](Soldering%20Station.png)
+
 This project is based on [ConnyCola](https://github.com/ConnyCola/SolderingStation/tree/master/3D)'s soldering station, but uses a modified source code and 3D model.
 
 The display show the following information:
