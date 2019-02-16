@@ -3,17 +3,20 @@ This is a soldering station using Weller RT soldering tips
 The project contains 3D model for the housing and a cirquit board using Arduino Nano microcontroller.
 The source code is written i C, and uses PID library for temperature control.
 
-![Soldering Station](Soldering%20Station.png)
+<p align="center">
+  <img align="center" width="500" src="Soldering%20Station.png">
+</p>
+
 
 This project is based on [ConnyCola](https://github.com/ConnyCola/SolderingStation/tree/master/3D)'s soldering station, but uses a modified source code and 3D model.
 
 The display show the following information:
-- `Normal`
-![Temperature display](SET_ST.png =250x250)
+
+<img align="left" width="100" height="100" src="SET_ST.png">
 The display will change color from Cyan, yellow, and Green dependant on the difference between SET and ACTual temperature. The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.
 
-- `Graph`
-![Temperature display](Grapth_ST.png =250x250)
+
+<img align="left" width="100" height="100" src="Grapth_ST.png">
 The display will show the tempetature curve, repeating approx. every 20 second. To enter the Graph mode, the selector scwith has to bressed for more than 1 second.
 
 At the bottom right of the screen, a small bar showing the PWM output is shown. 
