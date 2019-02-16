@@ -17,6 +17,7 @@ The display will change color from Cyan, yellow, and Green dependant on the diff
 <br/>
 The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.
 <br/>
+<br/>
 
 <img align="left" width="100" height="100" src="Grapth_ST.png">
 The display will show the tempetature curve, repeating approx. every 20 second. To enter the Graph mode, the selector scwith has to bressed for more than 1 second.
