@@ -22,12 +22,18 @@ The display will change colour from Cyan, Yellow, and Green dependent on the dif
 The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.<br/><br/>
 At the bottom right of the screen, a small bar shows the PWM output in %. 
 <br/>
-<br/>
+SolderPCBtop.png
 
 <img align="left" width="100" height="100" src="Grapth_ST.png">
 The display will show the temperature curve, repeating approx. every 20 seconds. To enter the Graph mode, the selector switch has to pressed for more than 1 second.
 
 At the bottom left a small dot is showing if the soldering station is in Standby mode.
+
+## PCB
+
+<img align="left" width="300" src="SolderPCBtop.png">
+<img align="right" width="300" src="SolderPCBbottom.png">
+<br/>
 
 ## Credits
 
