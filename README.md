@@ -31,9 +31,9 @@ At the bottom left a small dot is showing if the soldering station is in Standby
 
 ## PCB
 
-<img align="left" width="300" src="SolderPCBtop.png">
-<img align="right" width="300" src="SolderPCBbottom.png">
-<br/>
+<img align="left" width="400" src="SolderPCBtop.png">
+<img align="right" width="400" src="SolderPCBbottom.png">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Credits
 
