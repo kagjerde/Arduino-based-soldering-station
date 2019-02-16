@@ -15,8 +15,9 @@ The display show the following information:
 <img align="left" width="100" height="100" src="SET_ST.png">
 The display will change colour from Cyan, Yellow, and Green dependent on the difference between SET and ACTual temperature. 
 <br/>
-The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.<br/>
-At the bottom right of the screen, a small bar showing the PWM output is shown. 
+<br/>
+The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.<br/><br/>
+At the bottom right of the screen, a small bar shows the PWM output in %. 
 <br/>
 <br/>
 
@@ -24,8 +25,9 @@ At the bottom right of the screen, a small bar showing the PWM output is shown.
 The display will show the temperature curve, repeating approx. every 20 second. To enter the Graph mode, the selector switch has to pressed for more than 1 second.
 
 At the bottom left a small dot is show is the soldering station is in Standby mode.
-
-The PCB giles are generated in KiCad, but Gerber files are included as well.
+<br/>
+<br/>
+The PCB giles are generated in KiCad, and include Gerber files.
 
 ## Credits
 
