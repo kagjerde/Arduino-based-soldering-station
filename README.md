@@ -7,6 +7,9 @@ The source code is written i C, and uses PID library for temperature control.
   <img align="center" width="500" src="Soldering%20Station.png">
 </p>
 
+<br/>
+<br/>
+The PCB giles are generated in KiCad, and include Gerber files.
 
 This project is based on [ConnyCola](https://github.com/ConnyCola/SolderingStation/tree/master/3D)'s soldering station, but uses a modified source code and 3D model.
 
@@ -25,9 +28,6 @@ At the bottom right of the screen, a small bar shows the PWM output in %.
 The display will show the temperature curve, repeating approx. every 20 second. To enter the Graph mode, the selector switch has to pressed for more than 1 second.
 
 At the bottom left a small dot is show is the soldering station is in Standby mode.
-<br/>
-<br/>
-The PCB giles are generated in KiCad, and include Gerber files.
 
 ## Credits
 
