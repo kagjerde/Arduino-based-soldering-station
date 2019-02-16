@@ -15,7 +15,7 @@ The display show the following information:
 <img align="left" width="100" height="100" src="SET_ST.png">
 The display will change colour from Cyan, Yellow, and Green dependent on the difference between SET and ACTual temperature. 
 <br/>
-The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.
+The SET point will be set to 20 degrees if the soldering tip it placed in the holder, or the selector button is pressed once - Standby mode.<br/>
 At the bottom right of the screen, a small bar showing the PWM output is shown. 
 <br/>
 <br/>
