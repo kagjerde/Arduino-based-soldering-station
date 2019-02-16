@@ -1,4 +1,4 @@
-# Arduino-based-soldering-station
+# Arduino-soldering-station
 This is a soldering station using Weller RT soldering tips. <br/><br/>
 - The project files contains 3D model for the housing and a PCB board using Arduino Nano microcontroller.<br/>
 - Source code is written i C, and uses PID library for temperature control.<br/>
