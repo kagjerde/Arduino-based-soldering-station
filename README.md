@@ -2,7 +2,7 @@
 This is a soldering station using Weller RT soldering tips. <br/><br/>
 - The project files contains 3D model for the housing and a PCB board using Arduino Nano microcontroller.<br/>
 - Source code is written i C, and uses PID library for temperature control.<br/>
-- PCB giles are generated in KiCad, and include Gerber files.<br/>
+- PCB files are generated in KiCad, and include Gerber files.<br/>
 <br/>
 
 <p align="center">
