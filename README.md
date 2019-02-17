@@ -35,6 +35,10 @@ At the bottom left a small dot is showing if the soldering station is in Standby
 <img align="right" width="400" src="SolderPCBbottom.png">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+## Cirquit diagram
+
+<img align="center" width="700" src="Cirquit%20diagram.png">
+
 ## Credits
 
 The Weller RT product is a trademark of [Weller Tools GmbH](https://www.weller-tools.com/index.html)
